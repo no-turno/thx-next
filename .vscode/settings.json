@@ -1,0 +1,9 @@
+{
+    "explorer.sortOrder": "filesFirst",
+    "files.exclude": {
+        "**/.git": true,
+        "**/node_modules": true,
+    },
+    "workbench.editor.labelFormat": "long",
+    "workbench.editor.untitled.labelFormat": "name"
+}
