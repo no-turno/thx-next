@@ -1,4 +1,4 @@
-export default async function Signup() {
+export default function Signup() {
   return (
     <main>
       <h1>landing</h1>
