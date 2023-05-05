@@ -1,7 +1,12 @@
 {
-  "name": "january-app-web",
-  "version": "0.1.0",
+  "name": "next-template",
+  "version": "0.2.1",
   "private": true,
+  "author": {
+    "name": "dev",
+    "email": "dev@camarada.dev"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
