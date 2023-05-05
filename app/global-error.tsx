@@ -1,6 +1,5 @@
 "use client"
 
-// This is the new catch-all errors component
 export default function GlobalError({
   error,
   reset,
