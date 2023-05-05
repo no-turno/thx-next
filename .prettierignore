@@ -4,3 +4,4 @@ node_modules
 .gitignore
 *-lock.yaml
 *-lock.json
+.husky
