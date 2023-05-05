@@ -10,7 +10,7 @@ type Props = {
 
 export default function RootLayout({ children }: Props) {
   return (
-    <html lang='en'>
+    <html lang="en">
       <body className={withFontVariable(["bg-white"])}>{children}</body>
     </html>
   )
